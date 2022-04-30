@@ -10,4 +10,12 @@ public class Java {
 		System.out.println("i am a java developer");
 	}
 
+	
+	public void welcome() {
+		
+		
+		
+		
+		System.out.println("welcome to bikkad it");
+	}
 }
